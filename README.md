@@ -1,4 +1,4 @@
-# tech-blog
+# Model-View-Controller (MVC): Tech Blog
 
 # User Story
 AS A developer who writes about tech
